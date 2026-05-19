@@ -91,8 +91,8 @@ SHOW ERRORS
 DROP PROCEDURE prc_emp;
 
 /* 
-Criar uma procedure chamada prc_depto que de acordo com o depto informado exiba a quantidade de empregados 
-e a soma salarial POR cidade em que o departamento está localizado.
+    Criar uma procedure chamada prc_depto que de acordo com o depto informado exiba a quantidade de empregados 
+    e a soma salarial POR cidade em que o departamento está localizado.
 */
 CREATE OR REPLACE PROCEDURE prc_depto(p_depto IN INTEGER) IS
     v_cidade VARCHAR(50);

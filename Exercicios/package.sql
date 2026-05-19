@@ -2,8 +2,8 @@
 -- EXERCISE
 
 /* 
-Criar um pacote chamada pk_exercicio que tenha uma procedure chamada
-prc_resumo que informe o id do depto e exiba a soma salarial e a quantidade de empregados.
+  Criar um pacote chamada pk_exercicio que tenha uma procedure chamada
+  prc_resumo que informe o id do depto e exiba a soma salarial e a quantidade de empregados.
 */
  
 -- A) Criar a especificação;
